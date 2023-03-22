@@ -1,3 +1,5 @@
+#Program to show sum of three integer adds to zero.
+
 echo "Enter three integers: "
 read a
 read b
