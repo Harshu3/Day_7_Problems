@@ -1,3 +1,5 @@
+#Using prime factorization program, store all the prime factors of n number into an array.
+
 echo "enter an integer:"
 read input
 if [ $input -lt 1 ];then
