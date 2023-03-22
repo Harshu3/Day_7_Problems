@@ -1,3 +1,5 @@
+#Program that generate 10 random 3 digit values then print values in array and then check 2nd largest and 2nd smallest among them.
+
 echo "Generating 10 random 3 digit numbers"
 for (( i=0; i<10; i++ ))
 do
